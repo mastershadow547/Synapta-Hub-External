@@ -1,0 +1,1926 @@
+{
+  "Instance.ComponentMap": 56,
+  "Attribute.ListingOff": 24,
+  "Attribute.Size": 88,
+  "Attribute.Key": 0,
+  "Attribute.ValueOffsets": {
+    "CAL_Bool": 24,
+    "CAL_Num": 24,
+    "CAL_Str": 24,
+    "CAL_Vec2": 24,
+    "CAL_Vec3": 24,
+    "CAL_Color": 24,
+    "CAL_CFrame": 24,
+    "CAL_UDim": 24,
+    "CAL_UDim2": 24,
+    "CAL_BrickColor": 24,
+    "CAL_NumRange": 24,
+    "CAL_Rect": 24,
+    "CAL_NumSeq": 40,
+    "CAL_ColorSeq": 40
+  },
+  "Attribute.StringLayout": "ptr-to-bytes",
+  "Attribute.StringNulTerminated": true,
+  "Tag.Paths": [
+    {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+  ],
+  "Classes": {
+    "Clouds": {
+      "InstanceName": "CAL_Test_Clouds",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 6536, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 248, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3320, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3320, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4664, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4664, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6008, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Tool": {
+      "InstanceName": "CAL_Test_Tool",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "Model": {
+      "InstanceName": "CAL_Test_Model",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false}
+      ]
+    },
+    "Folder": {
+      "InstanceName": "CAL_Test_Folder",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2032, "EntryIndex": 0, "VectorOff": 216, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3760, "EntryIndex": 0, "VectorOff": 120, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5048, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5048, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5816, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "StringValue": {
+      "InstanceName": "CAL_Test_StringValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "NumberValue": {
+      "InstanceName": "CAL_Test_NumberValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1264, "EntryIndex": 0, "VectorOff": 216, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2992, "EntryIndex": 0, "VectorOff": 120, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4280, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4280, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5048, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BoolValue": {
+      "InstanceName": "CAL_Test_BoolValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 8072, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1784, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7544, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "IntValue": {
+      "InstanceName": "CAL_Test_IntValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1840, "EntryIndex": 8, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2224, "EntryIndex": 1, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5872, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7600, "EntryIndex": 1, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1016, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2360, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3568, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": false}
+      ]
+    },
+    "ObjectValue": {
+      "InstanceName": "CAL_Test_ObjectValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 768, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2608, "EntryIndex": 0, "VectorOff": 504, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3512, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 216, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false}
+      ]
+    },
+    "CFrameValue": {
+      "InstanceName": "CAL_Test_CFrameValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 280, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1624, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1624, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3192, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3416, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7448, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7672, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Vector3Value": {
+      "InstanceName": "CAL_Test_Vector3Value",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Color3Value": {
+      "InstanceName": "CAL_Test_Color3Value",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 384, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2224, "EntryIndex": 0, "VectorOff": 504, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2360, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4336, "EntryIndex": 0, "VectorOff": 216, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7352, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7352, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BrickColorValue": {
+      "InstanceName": "CAL_Test_BrickColorValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 3272, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5680, "EntryIndex": 0, "VectorOff": 24, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6584, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7544, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RayValue": {
+      "InstanceName": "CAL_Test_RayValue",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 880, "EntryIndex": 8, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 1264, "EntryIndex": 1, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4912, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6640, "EntryIndex": 1, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2608, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": false}
+      ]
+    },
+    "Attachment": {
+      "InstanceName": "CAL_Test_Attachment",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 7264, "EntryIndex": 30, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2360, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Sound": {
+      "InstanceName": "CAL_Test_Sound",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 624, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 280, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5232, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5744, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6768, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Highlight": {
+      "InstanceName": "CAL_Test_Highlight",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ForceField": {
+      "InstanceName": "CAL_Test_ForceField",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 3568, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5296, "EntryIndex": 1, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1264, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": false}
+      ]
+    },
+    "PointLight": {
+      "InstanceName": "CAL_Test_PointLight",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5208, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7448, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SpotLight": {
+      "InstanceName": "CAL_Test_SpotLight",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 728, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4760, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4984, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7000, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7448, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SurfaceLight": {
+      "InstanceName": "CAL_Test_SurfaceLight",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 280, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4312, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4536, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6552, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7000, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7448, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Configuration": {
+      "InstanceName": "CAL_Test_Configuration",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BindableEvent": {
+      "InstanceName": "CAL_Test_BindableEvent",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 2112, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1784, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3952, "EntryIndex": 0, "VectorOff": 504, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4088, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6064, "EntryIndex": 0, "VectorOff": 216, "VectorIsPtr": false}
+      ]
+    },
+    "BindableFunction": {
+      "InstanceName": "CAL_Test_BindableFunction",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Animation": {
+      "InstanceName": "CAL_Test_Animation",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": true}
+      ]
+    },
+    "ControllerManager": {
+      "InstanceName": "CAL_Test_ControllerManager",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 4128, "EntryIndex": 8, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3872, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AnimationController": {
+      "InstanceName": "CAL_Test_AnimationController",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 2992, "EntryIndex": 8, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3376, "EntryIndex": 1, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7024, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 304, "EntryIndex": 0, "VectorOff": 24, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2168, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3512, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": false}
+      ]
+    },
+    "SoundGroup": {
+      "InstanceName": "CAL_Test_SoundGroup",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "ModuleScript": {
+      "InstanceName": "CAL_Test_ModuleScript",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RemoteEvent": {
+      "InstanceName": "CAL_Test_RemoteEvent",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 8032, "EntryIndex": 30, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RemoteFunction": {
+      "InstanceName": "CAL_Test_RemoteFunction",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 104, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1976, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3512, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UnreliableRemoteEvent": {
+      "InstanceName": "CAL_Test_UnreliableRemoteEvent",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 104, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2360, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "PathfindingModifier": {
+      "InstanceName": "CAL_Test_PathfindingModifier",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioPlayer": {
+      "InstanceName": "CAL_Test_AudioPlayer",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1136, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2672, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5688, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioFader": {
+      "InstanceName": "CAL_Test_AudioFader",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1656, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1976, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1976, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "AudioFilter": {
+      "InstanceName": "CAL_Test_AudioFilter",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioPitchShifter": {
+      "InstanceName": "CAL_Test_AudioPitchShifter",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioChorus": {
+      "InstanceName": "CAL_Test_AudioChorus",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 376, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 376, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "AudioCompressor": {
+      "InstanceName": "CAL_Test_AudioCompressor",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioDistortion": {
+      "InstanceName": "CAL_Test_AudioDistortion",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "AudioEcho": {
+      "InstanceName": "CAL_Test_AudioEcho",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 104, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 3512, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4280, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4280, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5048, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6584, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioEqualizer": {
+      "InstanceName": "CAL_Test_AudioEqualizer",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2360, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 104, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4664, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AudioReverb": {
+      "InstanceName": "CAL_Test_AudioReverb",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5048, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 104, "VectorIsPtr": true}
+      ]
+    },
+    "AudioEmitter": {
+      "InstanceName": "CAL_Test_AudioEmitter",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 2160, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3184, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7792, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "TextButton": {
+      "InstanceName": "CAL_Test_TextButton",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false}
+      ]
+    },
+    "ClickDetector": {
+      "InstanceName": "CAL_Test_ClickDetector",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 6152, "EntryIndex": 8, "VectorOff": 504, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    },
+    "UISizeConstraint": {
+      "InstanceName": "CAL_Test_UISizeConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4088, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4312, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6328, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6776, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7224, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RodConstraint": {
+      "InstanceName": "CAL_Test_RodConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3640, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "HingeConstraint": {
+      "InstanceName": "CAL_Test_HingeConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "UniversalConstraint": {
+      "InstanceName": "CAL_Test_UniversalConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3192, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "WeldConstraint": {
+      "InstanceName": "CAL_Test_WeldConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2936, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2936, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4536, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "ViewportFrame": {
+      "InstanceName": "CAL_Test_ViewportFrame",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UITableLayout": {
+      "InstanceName": "CAL_Test_UITableLayout",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1848, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1848, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4536, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SurfaceAppearance": {
+      "InstanceName": "CAL_Test_SurfaceAppearance",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 624, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 1136, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5232, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6768, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BodyAngularVelocity": {
+      "InstanceName": "CAL_Test_BodyAngularVelocity",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RigidConstraint": {
+      "InstanceName": "CAL_Test_RigidConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 6496, "EntryIndex": 30, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Smoke": {
+      "InstanceName": "CAL_Test_Smoke",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 728, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 728, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 728, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1624, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1624, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1848, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5880, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6104, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BillboardGui": {
+      "InstanceName": "CAL_Test_BillboardGui",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIDragDetector": {
+      "InstanceName": "CAL_Test_UIDragDetector",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Seat": {
+      "InstanceName": "CAL_Test_Seat",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5816, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5816, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    },
+    "TrussPart": {
+      "InstanceName": "CAL_Test_TrussPart",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 624, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2672, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3184, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5232, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1080, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7224, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Fire": {
+      "InstanceName": "CAL_Test_Fire",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4408, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ChorusSoundEffect": {
+      "InstanceName": "CAL_Test_ChorusSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "FlagStand": {
+      "InstanceName": "CAL_Test_FlagStand",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 112, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "WrapTarget": {
+      "InstanceName": "CAL_Test_WrapTarget",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "CylindricalConstraint": {
+      "InstanceName": "CAL_Test_CylindricalConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "DistortionSoundEffect": {
+      "InstanceName": "CAL_Test_DistortionSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "VehicleSeat": {
+      "InstanceName": "CAL_Test_VehicleSeat",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false}
+      ]
+    },
+    "UIGradient": {
+      "InstanceName": "CAL_Test_UIGradient",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 4960, "EntryIndex": 30, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ProximityPrompt": {
+      "InstanceName": "CAL_Test_ProximityPrompt",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7672, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ImageButton": {
+      "InstanceName": "CAL_Test_ImageButton",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 312, "EntryIndex": 8, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Part": {
+      "InstanceName": "CAL_Test_Part",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1648, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2160, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SkateboardPlatform": {
+      "InstanceName": "CAL_Test_SkateboardPlatform",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "VectorForce": {
+      "InstanceName": "CAL_Test_VectorForce",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ScrollingFrame": {
+      "InstanceName": "CAL_Test_ScrollingFrame",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4152, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "MeshPart": {
+      "InstanceName": "CAL_Test_MeshPart",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 5344, "EntryIndex": 20, "VectorOff": 96, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5344, "EntryIndex": 28, "VectorOff": 288, "VectorIsPtr": false},
+        {"Mode": "component_entry", "InstanceOff": 5352, "EntryIndex": 20, "VectorOff": 288, "VectorIsPtr": false},
+        {"Mode": "component_entry", "InstanceOff": 5360, "EntryIndex": 12, "VectorOff": 160, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5472, "EntryIndex": 4, "VectorOff": 64, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5472, "EntryIndex": 14, "VectorOff": 32, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5792, "EntryIndex": 6, "VectorOff": 288, "VectorIsPtr": false},
+        {"Mode": "component_entry", "InstanceOff": 5792, "EntryIndex": 12, "VectorOff": 64, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AlignOrientation": {
+      "InstanceName": "CAL_Test_AlignOrientation",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1648, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2160, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5232, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7792, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4664, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5688, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BodyPosition": {
+      "InstanceName": "CAL_Test_BodyPosition",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIScale": {
+      "InstanceName": "CAL_Test_UIScale",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIGridLayout": {
+      "InstanceName": "CAL_Test_UIGridLayout",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Sparkles": {
+      "InstanceName": "CAL_Test_Sparkles",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 280, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2296, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3192, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3864, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Decal": {
+      "InstanceName": "CAL_Test_Decal",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UITextSizeConstraint": {
+      "InstanceName": "CAL_Test_UITextSizeConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UICorner": {
+      "InstanceName": "CAL_Test_UICorner",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2072, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2520, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2968, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3640, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SpringConstraint": {
+      "InstanceName": "CAL_Test_SpringConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Beam": {
+      "InstanceName": "CAL_Test_Beam",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6776, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    },
+    "AngularVelocity": {
+      "InstanceName": "CAL_Test_AngularVelocity",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BodyGyro": {
+      "InstanceName": "CAL_Test_BodyGyro",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false}
+      ]
+    },
+    "WedgePart": {
+      "InstanceName": "CAL_Test_WedgePart",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6768, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7792, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 568, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 568, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7224, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "TremoloSoundEffect": {
+      "InstanceName": "CAL_Test_TremoloSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ImageLabel": {
+      "InstanceName": "CAL_Test_ImageLabel",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "PrismaticConstraint": {
+      "InstanceName": "CAL_Test_PrismaticConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1136, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 1648, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 2160, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3184, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6768, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "ParticleEmitter": {
+      "InstanceName": "CAL_Test_ParticleEmitter",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "TextLabel": {
+      "InstanceName": "CAL_Test_TextLabel",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 4408, "EntryIndex": 0, "VectorOff": 8, "VectorIsPtr": true}
+      ]
+    },
+    "BuoyancySensor": {
+      "InstanceName": "CAL_Test_BuoyancySensor",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1392, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1336, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1336, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "SpawnLocation": {
+      "InstanceName": "CAL_Test_SpawnLocation",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2104, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6712, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Weld": {
+      "InstanceName": "CAL_Test_Weld",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 392, "EntryIndex": 31, "VectorOff": 352, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    },
+    "BallSocketConstraint": {
+      "InstanceName": "CAL_Test_BallSocketConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "UIListLayout": {
+      "InstanceName": "CAL_Test_UIListLayout",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1848, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3192, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4088, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Trail": {
+      "InstanceName": "CAL_Test_Trail",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 624, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 1136, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4208, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 4720, "EntryIndex": 0, "VectorOff": 504, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5744, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6768, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7280, "EntryIndex": 0, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BlockMesh": {
+      "InstanceName": "CAL_Test_BlockMesh",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1624, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SelectionSphere": {
+      "InstanceName": "CAL_Test_SelectionSphere",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "LinearVelocity": {
+      "InstanceName": "CAL_Test_LinearVelocity",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 3952, "EntryIndex": 0, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "SpecialMesh": {
+      "InstanceName": "CAL_Test_SpecialMesh",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "LineForce": {
+      "InstanceName": "CAL_Test_LineForce",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIAspectRatioConstraint": {
+      "InstanceName": "CAL_Test_UIAspectRatioConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 504, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1176, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "PlaneConstraint": {
+      "InstanceName": "CAL_Test_PlaneConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "PitchShiftSoundEffect": {
+      "InstanceName": "CAL_Test_PitchShiftSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7736, "EntryIndex": 0, "VectorOff": 256, "VectorIsPtr": true}
+      ]
+    },
+    "Frame": {
+      "InstanceName": "CAL_Test_Frame",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false}
+      ]
+    },
+    "UIPadding": {
+      "InstanceName": "CAL_Test_UIPadding",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 728, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIPageLayout": {
+      "InstanceName": "CAL_Test_UIPageLayout",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Motor6D": {
+      "InstanceName": "CAL_Test_Motor6D",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "WrapLayer": {
+      "InstanceName": "CAL_Test_WrapLayer",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "RopeConstraint": {
+      "InstanceName": "CAL_Test_RopeConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6328, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "VideoFrame": {
+      "InstanceName": "CAL_Test_VideoFrame",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false}
+      ]
+    },
+    "BodyForce": {
+      "InstanceName": "CAL_Test_BodyForce",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "CanvasGroup": {
+      "InstanceName": "CAL_Test_CanvasGroup",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 5232, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2616, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "SelectionBox": {
+      "InstanceName": "CAL_Test_SelectionBox",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false}
+      ]
+    },
+    "CornerWedgePart": {
+      "InstanceName": "CAL_Test_CornerWedgePart",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 624, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 3696, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6256, "EntryIndex": 0, "VectorOff": 312, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7792, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "ReverbSoundEffect": {
+      "InstanceName": "CAL_Test_ReverbSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 312, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 568, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5688, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BodyVelocity": {
+      "InstanceName": "CAL_Test_BodyVelocity",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AlignPosition": {
+      "InstanceName": "CAL_Test_AlignPosition",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 952, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BodyThrust": {
+      "InstanceName": "CAL_Test_BodyThrust",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 144, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 192, "VectorIsPtr": false}
+      ]
+    },
+    "CylinderMesh": {
+      "InstanceName": "CAL_Test_CylinderMesh",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "EqualizerSoundEffect": {
+      "InstanceName": "CAL_Test_EqualizerSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 312, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Texture": {
+      "InstanceName": "CAL_Test_Texture",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "SurfaceGui": {
+      "InstanceName": "CAL_Test_SurfaceGui",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 2672, "EntryIndex": 0, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "NoCollisionConstraint": {
+      "InstanceName": "CAL_Test_NoCollisionConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 256, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 1592, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5944, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "Bone": {
+      "InstanceName": "CAL_Test_Bone",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1848, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "TextBox": {
+      "InstanceName": "CAL_Test_TextBox",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "CompressorSoundEffect": {
+      "InstanceName": "CAL_Test_CompressorSoundEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 288, "VectorIsPtr": false}
+      ]
+    },
+    "Torque": {
+      "InstanceName": "CAL_Test_Torque",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "AnimationConstraint": {
+      "InstanceName": "CAL_Test_AnimationConstraint",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3640, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5432, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6328, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6328, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 8120, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "UIStroke": {
+      "InstanceName": "CAL_Test_UIStroke",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    },
+    "Atmosphere": {
+      "InstanceName": "CAL_Test_Atmosphere",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 4440, "EntryIndex": 6, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_entry", "InstanceOff": 4440, "EntryIndex": 30, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 224, "EntryIndex": 0, "VectorOff": 280, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 48, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2072, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2072, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2072, "EntryIndex": 0, "VectorOff": 432, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2520, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2968, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3192, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7224, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7448, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BloomEffect": {
+      "InstanceName": "CAL_Test_BloomEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 1928, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7024, "EntryIndex": 8, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 7408, "EntryIndex": 1, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1400, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4088, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4336, "EntryIndex": 0, "VectorOff": 24, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5240, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7544, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "BlurEffect": {
+      "InstanceName": "CAL_Test_BlurEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 240, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 824, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 1208, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false}
+      ]
+    },
+    "ColorCorrectionEffect": {
+      "InstanceName": "CAL_Test_ColorCorrectionEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 584, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 5680, "EntryIndex": 8, "VectorOff": 440, "VectorIsPtr": true},
+        {"Mode": "component_entry", "InstanceOff": 6064, "EntryIndex": 1, "VectorOff": 248, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2744, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 2992, "EntryIndex": 0, "VectorOff": 24, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3896, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4856, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 6200, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7408, "EntryIndex": 0, "VectorOff": 264, "VectorIsPtr": false}
+      ]
+    },
+    "ColorGradingEffect": {
+      "InstanceName": "CAL_Test_ColorGradingEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_entry", "InstanceOff": 6344, "EntryIndex": 18, "VectorOff": 56, "VectorIsPtr": true},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 3128, "EntryIndex": 0, "VectorOff": 384, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4472, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 4472, "EntryIndex": 0, "VectorOff": 480, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 5816, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false}
+      ]
+    },
+    "DepthOfFieldEffect": {
+      "InstanceName": "CAL_Test_DepthOfFieldEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 440, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7792, "EntryIndex": 0, "VectorOff": 456, "VectorIsPtr": false}
+      ]
+    },
+    "SunRaysEffect": {
+      "InstanceName": "CAL_Test_SunRaysEffect",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 336, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 7408, "EntryIndex": 0, "VectorOff": 456, "VectorIsPtr": false}
+      ]
+    },
+    "Sky": {
+      "InstanceName": "CAL_Test_Sky",
+      "InstanceOff": 56,
+      "Attribute.ListingOff": 24,
+      "Attribute.Size": 88,
+      "Attribute.Key": 0,
+      "Tag.Paths": [
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 0, "VectorIsPtr": false},
+        {"Mode": "component_struct", "InstanceOff": 56, "EntryIndex": 0, "VectorOff": 96, "VectorIsPtr": false}
+      ]
+    }
+  }
+}
